@@ -34,3 +34,11 @@ docker-compose  run --rm app sh -c "python manage.py migrate"
 6. You may confirm if the data has beena added on the Database by accessing the Django admin ORM dashboard 
 Open the Web app with the URL below:
     localhost:8080/admin/
+
+
+Sample data:
+![image](https://user-images.githubusercontent.com/37651790/160889480-09484302-fb35-4249-95ad-5ba5442c3560.png)
+
+Django admin DB Client view:
+![image](https://user-images.githubusercontent.com/37651790/160889589-2ddd06d7-8f03-4cf6-8c5a-59ad1328bced.png)
+
